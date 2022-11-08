@@ -1,0 +1,8 @@
+{
+  "role": {
+    "name": "FIRSTROLE",
+    "global_roles": [
+      "MODELING"
+    ]
+  }
+}
