@@ -2,8 +2,7 @@
   "role": {
     "name": "FIRSTROLE",
     "global_roles": [
-      "MODELING",
-      "MONITORING"
+      "MODELING"
     ]
   }
 }
